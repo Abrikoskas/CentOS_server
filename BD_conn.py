@@ -1,4 +1,4 @@
-import psycopg2 as pg
+import psycopg2-binary as pg
 
 
 # def bd_func(settings):
